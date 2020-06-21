@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lingzaixd.github.io</id>
     <title>凌仔XD</title>
-    <updated>2020-06-05T06:56:52.909Z</updated>
+    <updated>2020-06-21T06:19:08.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lingzaixd.github.io"/>
     <link rel="self" href="https://lingzaixd.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://lingzaixd.github.io/images/avatar.png</logo>
     <icon>https://lingzaixd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 凌仔XD</rights>
+    <entry>
+        <title type="html"><![CDATA[丝带🎀]]></title>
+        <id>https://lingzaixd.github.io/post/si-dai/</id>
+        <link href="https://lingzaixd.github.io/post/si-dai/">
+        </link>
+        <updated>2020-06-21T08:17:31.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👯]]></title>
         <id>https://lingzaixd.github.io/post/</id>
@@ -71,13 +78,6 @@
         <id>https://lingzaixd.github.io/post/lyhsqqtl/</id>
         <link href="https://lingzaixd.github.io/post/lyhsqqtl/">
         </link>
-        <updated>2020-05-31T18:05:19.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚗整理中]]></title>
-        <id>https://lingzaixd.github.io/post/zheng-li-zhong/</id>
-        <link href="https://lingzaixd.github.io/post/zheng-li-zhong/">
-        </link>
-        <updated>2020-05-27T16:55:46.000Z</updated>
+        <updated>2020-05-31T20:05:19.000Z</updated>
     </entry>
 </feed>
