@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lingzaixd.github.io</id>
     <title>凌仔XD</title>
-    <updated>2020-07-11T04:03:23.372Z</updated>
+    <updated>2020-07-13T05:57:23.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lingzaixd.github.io"/>
     <link rel="self" href="https://lingzaixd.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://lingzaixd.github.io/images/avatar.png</logo>
     <icon>https://lingzaixd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 凌仔XD</rights>
+    <entry>
+        <title type="html"><![CDATA[骑 乘]]></title>
+        <id>https://lingzaixd.github.io/post/qi-cheng/</id>
+        <link href="https://lingzaixd.github.io/post/qi-cheng/">
+        </link>
+        <updated>2020-07-13T07:55:41.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聂主动]]></title>
         <id>https://lingzaixd.github.io/post/nie-zhu-dong/</id>
@@ -72,12 +79,5 @@
         <link href="https://lingzaixd.github.io/post/ci-ji-men-bei-hou/">
         </link>
         <updated>2020-06-04T07:36:17.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刺激橘猫]]></title>
-        <id>https://lingzaixd.github.io/post/ci-ji-ju-mao/</id>
-        <link href="https://lingzaixd.github.io/post/ci-ji-ju-mao/">
-        </link>
-        <updated>2020-06-04T07:35:03.000Z</updated>
     </entry>
 </feed>
